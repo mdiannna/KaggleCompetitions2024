@@ -1,4 +1,4 @@
-Google – AI Assistants for Data Tasks with Gemma
+# Google – AI Assistants for Data Tasks with Gemma Competition
 
 
 This is the repo for the work for kaggle competition https://www.kaggle.com/competitions/data-assistants-with-gemma
